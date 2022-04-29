@@ -1,7 +1,7 @@
 package edu.handong.csee.java.hw2.math;
 
 /**
- * @author Kangsik Lim
+ * @author Kangsik Lim - 2rgosum@gmail.com
  * This is MathCalculator Class
  */
 public class MathCalculator {
