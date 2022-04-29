@@ -4,7 +4,7 @@ import edu.handong.csee.java.hw2.math.MathCalculator;
 
 
 /**
- * @author Kangsik Lim
+ * @author Kangsik Lim - 2rgosum@gmail.com
  * This is MathDriver Class
  */
 public class MathDriver {
